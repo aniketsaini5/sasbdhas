@@ -1,2 +1,1 @@
-# Start coding here
-print("Hello, TeamCode Hub!")
+print("Hello")
